@@ -1,7 +1,7 @@
 {
   "name": "design-with-ai",
-  "version": "1.0.0",
-  "description": "Design, critique, and refine cohesive product interfaces with AI.",
+  "version": "1.1.0",
+  "description": "Design product interfaces and implement polished websites with AI.",
   "author": {
     "name": "Aman Maqsood",
     "email": "amanmaqsood@users.noreply.github.com"
@@ -9,5 +9,5 @@
   "homepage": "https://github.com/amanmaqsood/design-with-ai#readme",
   "repository": "https://github.com/amanmaqsood/design-with-ai",
   "license": "MIT",
-  "keywords": ["design", "product-design", "ui", "ux", "agent-skill"]
+  "keywords": ["design", "product-design", "ui", "ux", "website-builder", "agent-skill"]
 }

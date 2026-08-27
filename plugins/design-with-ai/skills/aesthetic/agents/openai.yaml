@@ -1,0 +1,4 @@
+interface:
+  display_name: "Aesthetic"
+  short_description: "Build polished websites from coherent UI systems"
+  default_prompt: "Use $aesthetic to redesign and implement this website, then verify it visually."
