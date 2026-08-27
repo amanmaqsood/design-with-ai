@@ -1,5 +1,7 @@
 # Design with AI
 
+![Design with AI — a systems-oriented agent skill](assets/design-with-ai-cover.png)
+
 An agent skill for designing, critiquing, and refining product interfaces as coherent systems—not collections of familiar AI-generated components.
 
 Built by [Aman Maqsood](https://github.com/amanmaqsood) for both Codex and Claude Code.
