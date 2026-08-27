@@ -60,8 +60,6 @@ plugins/design-with-ai/skills/design-with-ai Shared Agent Skill
 
 ![How I Design with AI title card](assets/how-i-design-with-ai-source.png)
 
-*Source image supplied by the repository author; original essay and artwork credited to Matt Dailey ([@reactiverobot](https://x.com/reactiverobot)).*
-
 The initial spark came from Matt Dailey's *How I Design with AI* post and its discussion of whole-system constraints, subtraction, low-cost iteration, components, previews, precedents, and learned taste. The constraint-first perspective also points back to Christopher Alexander's *Notes on the Synthesis of Form*.
 
 This repository is independently written and maintained by Aman Maqsood. It is not affiliated with or endorsed by Matt Dailey, Christopher Alexander's estate, Anthropic, or OpenAI.
