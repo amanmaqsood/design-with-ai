@@ -1,0 +1,30 @@
+{
+  "name": "design-with-ai",
+  "version": "1.0.0",
+  "description": "Design, critique, and refine cohesive product interfaces with AI.",
+  "author": {
+    "name": "Aman Maqsood",
+    "email": "amanmaqsood@users.noreply.github.com",
+    "url": "https://github.com/amanmaqsood"
+  },
+  "homepage": "https://github.com/amanmaqsood/design-with-ai#readme",
+  "repository": "https://github.com/amanmaqsood/design-with-ai",
+  "license": "MIT",
+  "keywords": ["design", "product-design", "ui", "ux", "agent-skill"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Design with AI",
+    "shortDescription": "Design cohesive interfaces without generic AI output.",
+    "longDescription": "A systems-oriented workflow for designing, critiquing, and refining product interfaces with clear constraints, meaningful alternatives, reusable components, and realistic validation.",
+    "developerName": "Aman Maqsood",
+    "category": "Design",
+    "capabilities": ["Interactive", "Write"],
+    "websiteURL": "https://github.com/amanmaqsood/design-with-ai",
+    "defaultPrompt": [
+      "Design a coherent interface from these product requirements.",
+      "Critique this interface and identify its systemic design problems.",
+      "Refine this product flow without adding unnecessary UI."
+    ],
+    "brandColor": "#111111"
+  }
+}

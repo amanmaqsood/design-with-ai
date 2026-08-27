@@ -1,0 +1,20 @@
+{
+  "name": "amanmaqsood-design",
+  "interface": {
+    "displayName": "Aman Maqsood Design"
+  },
+  "plugins": [
+    {
+      "name": "design-with-ai",
+      "source": {
+        "source": "local",
+        "path": "./plugins/design-with-ai"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Design"
+    }
+  ]
+}

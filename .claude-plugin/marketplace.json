@@ -1,0 +1,26 @@
+{
+  "name": "amanmaqsood-design",
+  "owner": {
+    "name": "Aman Maqsood",
+    "url": "https://github.com/amanmaqsood"
+  },
+  "metadata": {
+    "description": "Product design skills built by Aman Maqsood"
+  },
+  "plugins": [
+    {
+      "name": "design-with-ai",
+      "source": "./plugins/design-with-ai",
+      "description": "Design, critique, and refine cohesive product interfaces with AI.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aman Maqsood"
+      },
+      "homepage": "https://github.com/amanmaqsood/design-with-ai#readme",
+      "repository": "https://github.com/amanmaqsood/design-with-ai",
+      "license": "MIT",
+      "category": "design",
+      "tags": ["product-design", "ui", "ux"]
+    }
+  ]
+}

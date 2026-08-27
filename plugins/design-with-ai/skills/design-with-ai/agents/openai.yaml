@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design with AI"
+  short_description: "Design and refine cohesive product interfaces"
+  default_prompt: "Use $design-with-ai to critique and improve this interface."
